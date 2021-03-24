@@ -1,0 +1,10 @@
+export const TOGGLE_LOGIN = 'TOGGLE_LOGIN';
+export const ADD_TODO = 'ADD_TODO';
+export const GET_TODO = 'GET_TODO';
+export const DELETE_TODO = 'DELETE_TODO';
+export const EDIT_TODO_STATUS ='EDIT_TODO_STATUS';
+export const EDIT_TODO_TITLE ='EDIT_TODO_TITLE';
+export const HANDLE_TOAST = 'HANDLE_TOAST';
+export const HANDLE_TOAST_CLOSE = 'HANDLE_TOAST_CLOSE';
+export const HANDLE_MODAL = 'HANDLE_MODAL';
+export const HANDLE_SELECT_TODO = 'HANDLE_SELECT_TODO';
